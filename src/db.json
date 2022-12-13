@@ -1,0 +1,11 @@
+{
+  "person": {
+    "id": 0,
+    "weight": "95",
+    "birthDate": "2022-12-06",
+    "food": "Macarrão",
+    "genre": "masculino",
+    "color": "#610f0f",
+    "name": "trtr"
+  }
+}
